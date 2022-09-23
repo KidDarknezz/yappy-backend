@@ -43,5 +43,21 @@
     "ts-loader": "^8.0.18",
     "ts-node": "^7.0.1",
     "typescript": "^4.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KidDarknezz/yappy-backend.git"
+  },
+  "keywords": [
+    "yappy",
+    "node",
+    "backend"
+  ],
+  "bugs": {
+    "url": "https://github.com/KidDarknezz/yappy-backend/issues"
+  },
+  "homepage": "https://github.com/KidDarknezz/yappy-backend#readme",
+  "publishConfig": {
+    "@KidDarknezzE:registry": "https://npm.pkg.github.com"
   }
 }
